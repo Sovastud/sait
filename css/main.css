@@ -935,7 +935,7 @@ input[type="text10_1"]:focus {
 .foto5 {
     width: 300px;
     height: 350px;
-    background: url("/image/1.png");
+    background: url("../image/1.png");
     background-size: cover;
     position: absolute;
     top: 1250px;
@@ -945,7 +945,7 @@ input[type="text10_1"]:focus {
 .foto6 {
     width: 300px;
     height: 350px;
-    background: url("/image/2.png");
+    background: url("../image/2.png");
     background-size: cover;
     position: absolute;
     top: 1250px;
@@ -1185,7 +1185,7 @@ input[type="text10_1"]:focus {
 .foto7 {
     width: 300px;
     height: 350px;
-    background: url("/image/foto2.jpg");
+    background: url("../image/foto2.jpg");
     background-size: cover;
     position: absolute;
     top: 1250px;
@@ -1194,7 +1194,7 @@ input[type="text10_1"]:focus {
 .foto8 {
     width: 300px;
     height: 350px;
-    background: url("/image/foto.jpg");
+    background: url("../image/foto.jpg");
     background-size: cover;
     position: absolute;
     top: 1250px;
